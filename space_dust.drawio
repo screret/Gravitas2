@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T14:26:53.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="soTi9NkFLGGrKYl7AS2X" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:29:54.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NB827ASsykjOvFU8ap_P" version="22.1.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2440" dy="1353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="1917" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -709,10 +709,10 @@
         <mxCell id="2XQNkSP4wIlUYdk0bkbH-42" value="10mb Weapons-Grade Hypogen Plasma" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
           <mxGeometry y="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2XQNkSP4wIlUYdk0bkbH-43" value="eu/t" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-43" value="outputs 8192 eu/t" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
           <mxGeometry y="70" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2XQNkSP4wIlUYdk0bkbH-44" value="time (s)" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-44" value="30s" style="text;strokeColor=#B09500;fillColor=#e3c800;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
           <mxGeometry y="100" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2XQNkSP4wIlUYdk0bkbH-45" value="10mb Liquid Weapons-Grade Hypogen" style="text;strokeColor=#001DBC;fillColor=#0050ef;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="2XQNkSP4wIlUYdk0bkbH-41">
@@ -902,6 +902,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2XQNkSP4wIlUYdk0bkbH-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-73" target="2XQNkSP4wIlUYdk0bkbH-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-150" value="Output" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="1070" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2XQNkSP4wIlUYdk0bkbH-45" target="2XQNkSP4wIlUYdk0bkbH-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-153" value="Output" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="150" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-48" target="7Hfktlou8XyDzRxeF353-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-47" target="2XQNkSP4wIlUYdk0bkbH-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-42" target="2XQNkSP4wIlUYdk0bkbH-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-41" target="2XQNkSP4wIlUYdk0bkbH-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2XQNkSP4wIlUYdk0bkbH-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7Hfktlou8XyDzRxeF353-39" target="2XQNkSP4wIlUYdk0bkbH-153">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
